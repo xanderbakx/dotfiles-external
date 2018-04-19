@@ -1,0 +1,31 @@
+2018/04/02-20:22:32.987 2737 Reusing MANIFEST /home/xander/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/04/02-20:22:32.987 2737 Recovering log #15
+2018/04/02-20:22:33.092 2737 Level-0 table #20: started
+2018/04/02-20:22:33.154 2737 Level-0 table #20: 3249161 bytes OK
+2018/04/02-20:22:33.167 2737 Delete type=0 #15
+2018/04/02-20:23:33.637 4204 Level-0 table #23: started
+2018/04/02-20:23:33.690 4204 Level-0 table #23: 3248927 bytes OK
+2018/04/02-20:23:33.704 4204 Delete type=0 #21
+2018/04/02-20:23:34.510 4204 Level-0 table #25: started
+2018/04/02-20:23:34.563 4204 Level-0 table #25: 3249166 bytes OK
+2018/04/02-20:23:34.573 4204 Delete type=0 #22
+2018/04/02-20:23:35.970 4204 Level-0 table #27: started
+2018/04/02-20:23:36.032 4204 Level-0 table #27: 3249162 bytes OK
+2018/04/02-20:23:36.044 4204 Delete type=0 #24
+2018/04/02-20:23:36.045 4204 Compacting 4@0 + 2@1 files
+2018/04/02-20:23:36.118 4204 Generated table #28@0: 1 keys, 3248924 bytes
+2018/04/02-20:23:36.130 4204 Generated table #29@0: 2 keys, 335 bytes
+2018/04/02-20:23:36.130 4204 Compacted 4@0 + 2@1 files => 3249259 bytes
+2018/04/02-20:23:36.141 4204 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/04/02-20:23:36.142 4204 Delete type=2 #27
+2018/04/02-20:23:36.142 4204 Delete type=2 #23
+2018/04/02-20:23:36.142 4204 Delete type=2 #18
+2018/04/02-20:23:36.142 4204 Delete type=2 #20
+2018/04/02-20:23:36.143 4204 Delete type=2 #25
+2018/04/02-20:23:36.143 4204 Delete type=2 #17
+2018/04/02-20:23:40.511 4204 Level-0 table #31: started
+2018/04/02-20:23:40.565 4204 Level-0 table #31: 3248983 bytes OK
+2018/04/02-20:23:40.577 4204 Delete type=0 #26
+2018/04/02-20:23:41.262 4204 Level-0 table #33: started
+2018/04/02-20:23:41.312 4204 Level-0 table #33: 3249852 bytes OK
+2018/04/02-20:23:41.316 4204 Delete type=0 #30

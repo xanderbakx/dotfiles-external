@@ -1,0 +1,16 @@
+2018/03/31-17:11:36.695 15653 Reusing MANIFEST /home/xander/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/03/31-17:11:36.695 15653 Recovering log #12
+2018/03/31-17:11:36.695 15653 Reusing old log /home/xander/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000012.log 
+2018/03/31-17:12:37.373 17042 Level-0 table #16: started
+2018/03/31-17:12:37.427 17042 Level-0 table #16: 3249496 bytes OK
+2018/03/31-17:12:37.436 17042 Delete type=0 #12
+2018/03/31-17:12:37.437 17042 Compacting 4@0 + 1@1 files
+2018/03/31-17:12:37.524 17042 Generated table #17@0: 1 keys, 3248922 bytes
+2018/03/31-17:12:37.539 17042 Generated table #18@0: 2 keys, 336 bytes
+2018/03/31-17:12:37.539 17042 Compacted 4@0 + 1@1 files => 3249258 bytes
+2018/03/31-17:12:37.560 17042 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/03/31-17:12:37.560 17042 Delete type=2 #13
+2018/03/31-17:12:37.561 17042 Delete type=2 #9
+2018/03/31-17:12:37.561 17042 Delete type=2 #7
+2018/03/31-17:12:37.561 17042 Delete type=2 #11
+2018/03/31-17:12:37.561 17042 Delete type=2 #16

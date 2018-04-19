@@ -1,0 +1,5 @@
+#Bindings
+"xvkbd -no-jump-pointer -text "\[XF86AudioRaiseVolume]""
+b:9
+"xvkbd -no-jump-pointer -text "\[XF86AudioLowerVolume]""
+b:8
